@@ -3,3 +3,4 @@ class User{
         console.log("lala");
     }
 }
+//ide - compare и смотрим изменения
